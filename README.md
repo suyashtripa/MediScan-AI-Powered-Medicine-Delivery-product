@@ -60,7 +60,7 @@ This project combines **Computer Vision, NLP, and Full-Stack Development** into 
 
 ### Frontend
 
-* Streamlit
+*React js
 
 ### Backend & AI
 
