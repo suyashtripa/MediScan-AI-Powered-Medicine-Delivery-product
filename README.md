@@ -130,7 +130,5 @@ AI | ML | Full Stack Development
 
 ---
 
-## 📜 License
 
-This project is licensed for educational and research purposes.
 
